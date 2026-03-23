@@ -4,7 +4,7 @@ Hi my self SHAROZ
 Second yeaar BCA student at KCMT , Barelily , UP 
 And aspring Software Developer 
 Currently learing Python & Automation 
-                             🤖 MORE ABOUT MY SELF xcuz why not 😅
+                             🤖 MORE ABOUT MY SELF cuz why not 😅
 > Passionate about learning new skill and making real world project.
 > Continously honing my skill  and learing form my mistake.
 > As form now i learning Autommataion with Python and i love the processs.
