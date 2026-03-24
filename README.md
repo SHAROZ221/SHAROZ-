@@ -1,24 +1,46 @@
-# SHAROZ-
-About my self....
-Hi my self SHAROZ  
-Second yeaar BCA student at KCMT , Barelily , UP 
-And aspring Software Developer 
-Currently learing Python & Automation 
-                             🤖 MORE ABOUT MY SELF cuz why not 😅
-> Passionate about learning new skill and making real world project.
-> Continously honing my skill  and learing form my mistake.
-> As form now i learning Autommataion with Python and i love the processs.
-> And i love to watch Anime
-                                      😺SKILLS😺
-> Programming language - JAVA (basics), Python (Learning)
-> Core Conceot - Data structure & Algorithm
-                            💀 CurrenCurrently learning 💀
-> Python automation
-> scripting and taske automation
-> Advanced data structure
-                                😒SOME SIDE QUEST 😒
-> Watching animes reading Mangas
-> Music
-> Some games
-                               🔎CONTACONTACT INFO 🔎
-1- Mail id - dontknowhowtocode10@gmail.com
+ 👋 Hi, I'm Sharoz
+
+🎓 Second Year BCA Student
+🏫 KCMT, Bareilly, UP
+💻 Aspiring Software Developer
+🐍 Currently learning Python & Automation
+
+
+
+ 🤖 About Me
+
+* Passionate about learning new skills and building real-world projects
+* Continuously improving by learning from mistakes
+* Currently exploring Python automation and enjoying the process
+* Anime lover 🎧
+
+
+
+ 🛠️ Skills
+
+* Programming: Java (Basics), Python (Learning)
+* Core Concepts: Data Structures & Algorithms
+
+
+
+ 📚 Currently Learning
+
+* Python Automation
+* Scripting & Task Automation
+* Advanced Data Structures
+
+
+
+ 🎮 Interests
+
+* Watching anime & reading manga
+* Music 🎧
+* Gaming
+
+
+
+## 📫 Contact
+
+* 📧 Email: (dontknowhowtocode10@gmail.com)
+
+
